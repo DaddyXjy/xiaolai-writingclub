@@ -23,7 +23,7 @@
 - ✅  [5.17日写作打卡](xie-zuo-da-ka/5.17-ri-xie-zuo-da-ka.md)
 - ✅  [5.18日写作打卡](xie-zuo-da-ka/5.18-ri-xie-zuo-da-ka.md)
 - ✅  [5.19日写作打卡](xie-zuo-da-ka/5.19-ri-xie-zuo-da-ka.md)
-- ❌  [5.20日写作打卡](xie-zuo-da-ka/5.20-ri-xie-zuo-da-ka.md)
+- ✅  [5.20日写作打卡](xie-zuo-da-ka/5.20-ri-xie-zuo-da-ka.md)
 - ❌  [5.21日写作打卡](xie-zuo-da-ka/5.21-ri-xie-zuo-da-ka.md)
 - ❌  [5.22日写作打卡](xie-zuo-da-ka/5.22-ri-xie-zuo-da-ka.md)
 - ❌  [5.24日写作打卡](xie-zuo-da-ka/5.24-ri-xie-zuo-da-ka.md)
