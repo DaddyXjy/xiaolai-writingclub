@@ -30,7 +30,7 @@
 - ✅  [5.25日写作打卡](xie-zuo-da-ka/5.25-ri-xie-zuo-da-ka.md)
 - ✅  [5.26日写作打卡](xie-zuo-da-ka/5.26-ri-xie-zuo-da-ka.md)
 - ✅  [5.27日写作打卡](xie-zuo-da-ka/5.27-ri-xie-zuo-da-ka.md)
-- ❌  [5.28日写作打卡](xie-zuo-da-ka/5.28-ri-xie-zuo-da-ka.md)
-- ❌  [5.29日写作打卡](xie-zuo-da-ka/5.29-ri-xie-zuo-da-ka.md)
-- ❌  [5.31日写作打卡](xie-zuo-da-ka/5.31-ri-xie-zuo-da-ka.md)
+- ✅  [5.28日写作打卡](xie-zuo-da-ka/5.28-ri-xie-zuo-da-ka.md)
+- ✅  [5.29日写作打卡](xie-zuo-da-ka/5.29-ri-xie-zuo-da-ka.md)
+- ✅  [5.31日写作打卡](xie-zuo-da-ka/5.31-ri-xie-zuo-da-ka.md)
 
