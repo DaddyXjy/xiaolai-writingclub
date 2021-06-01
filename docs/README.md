@@ -33,4 +33,5 @@
 - ✅  [5.28日写作打卡](xie-zuo-da-ka/5.28-ri-xie-zuo-da-ka.md)
 - ✅  [5.29日写作打卡](xie-zuo-da-ka/5.29-ri-xie-zuo-da-ka.md)
 - ✅  [5.31日写作打卡](xie-zuo-da-ka/5.31-ri-xie-zuo-da-ka.md)
+- ✅  [6.1日写作打卡](xie-zuo-da-ka/6.1-ri-xie-zuo-da-ka.md)
 
